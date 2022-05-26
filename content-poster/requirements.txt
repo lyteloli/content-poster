@@ -2,5 +2,5 @@ aiogram==2.6.1
 pytz==2019.3
 APScheduler==3.6.3
 aiohttp==3.6.2
-ujson==2.0.1
+ujson==5.2.0
 beautifulsoup4==4.8.2
